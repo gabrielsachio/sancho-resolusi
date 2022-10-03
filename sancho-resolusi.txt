@@ -1,0 +1,5 @@
+RESOLUSIKU
+- Belajar dan memahami HTML
+- Belajar dan memahami CSS 
+- Belajar Bootstrap, lalu Tailwind CSS
+- Belajar Javascript
