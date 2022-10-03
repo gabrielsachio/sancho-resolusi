@@ -5,4 +5,4 @@ RESOLUSIKU
 - Belajar Javascript
 - Menjadi web development
 - Belajar lainnya
-- Olahraga
+_ Menjadi kuat
