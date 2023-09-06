@@ -3,6 +3,3 @@ RESOLUSIKU
 - Belajar dan memahami CSS 
 - Belajar Bootstrap, lalu Tailwind CSS
 - Belajar Javascript
-- Menjadi web development
-- Belajar lainnya
-_ Menjadi kuat
